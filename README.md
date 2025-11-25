@@ -12,6 +12,8 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Watch-Tech_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
   </a>
+  <h3>🎥 Gameplay Showcase (Click to Watch)</h3> <a href="" target="_blank" title="Click to watch full gameplay video"> <img src="https://github.com/user-attachments/assets/c81acbdd-3227-4f47-a9d5-207afc0ea935" alt="Dungeon Janitors Gameplay GIF" width="800" style="max-width:100%; border-radius: 8px; border: 2px solid #FF0000;"> </a>
+
 </p>
 
 
