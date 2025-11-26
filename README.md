@@ -10,6 +10,9 @@
 <a href="https://drive.google.com/file/d/1surMrpuCImPI4zCX7TWsmPGdrFCJLDtk/view?usp=sharing"><img src="https://img.shields.io/badge/ROADMAP-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="Roadmap"></a> 
 <a href="https://www.artstation.com/artwork/mAe0Ed"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a> 
 </div>
+
+<h3>🎥 Gameplay Showcase (Click to Watch)</h3> <a href="" target="_blank" title="Click to watch full gameplay video"> <img src="https://github.com/user-attachments/assets/c81acbdd-3227-4f47-a9d5-207afc0ea935" alt="Dungeon Janitors Gameplay GIF" width="800" style="max-width:100%; border-radius: 8px; border: 2px solid #FF0000;"> </a>
+</br>
 </br>
 
 | **Engine** | **Language** | **Architecture** | **Networking** |
