@@ -3,20 +3,14 @@
 <h1>🏰 Dungeon Janitors: Estate of Chaos</h1>
 <h3>First-Person Co-op Simulation & Architecture Prototype</h3>
 
-<p>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Prototype_Build-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
-  </a>
-  <a href="https://docs.google.com/document/d/1wt112ZX0hZ7NIivY41Cdhh5RROT_jld6gSN8U51ylDo/edit?usp=sharing"><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=googledocs&logoColor=white" alt="GDD"></a>
-  <a href="https://docs.google.com/document/d/1wqi1_IfI3CmmCAdL-SX_Pjgux8QhREAc288wea1te8Q/edit?usp=sharing"><img src="https://img.shields.io/badge/TDD_Doc-2B5797?style=for-the-badge&logo=googledocs&logoColor=white" alt="GDD"></a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Watch-Tech_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube" />
-  </a>
-  <h3>🎥 Gameplay Showcase (Click to Watch)</h3> <a href="" target="_blank" title="Click to watch full gameplay video"> <img src="https://github.com/user-attachments/assets/c81acbdd-3227-4f47-a9d5-207afc0ea935" alt="Dungeon Janitors Gameplay GIF" width="800" style="max-width:100%; border-radius: 8px; border: 2px solid #FF0000;"> </a>
-
-</p>
-
-
+<div align="center"> <a href="https://github.com/omerburakozgur/Dungeon-Janitors-Estate-of-Chaos"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"></a>
+<a href="https://omerburakozgur.itch.io/dungeon-janitors"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
+<a href="https://drive.google.com/file/d/1hrh3xSWb_4aqL3dPtyF-nB9uQ_GEpUPu/view?usp=sharing"><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=googledocs&logoColor=white" alt="GDD"></a> 
+<a href="https://drive.google.com/file/d/1RuRvtg5jgOwtFN5BX9qTqiVGP7Ns_jZK/view?usp=sharing"><img src="https://img.shields.io/badge/TDD_Doc-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="TDD"></a>
+<a href="https://drive.google.com/file/d/1surMrpuCImPI4zCX7TWsmPGdrFCJLDtk/view?usp=sharing"><img src="https://img.shields.io/badge/ROADMAP-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="Roadmap"></a> 
+<a href="https://www.artstation.com/artwork/mAe0Ed"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a> 
+</div>
+</br>
 
 | **Engine** | **Language** | **Architecture** | **Networking** |
 | :---: | :---: | :---: | :---: |
