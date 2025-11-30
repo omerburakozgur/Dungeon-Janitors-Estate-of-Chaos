@@ -11,7 +11,7 @@
 <a href="https://www.artstation.com/artwork/mAe0Ed"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a> 
 </div>
 
-<h3>🎥 Gameplay Showcase (Click to Watch)</h3> <a href="" target="_blank" title="Click to watch full gameplay video"> <img src="https://github.com/user-attachments/assets/c81acbdd-3227-4f47-a9d5-207afc0ea935" alt="Dungeon Janitors Gameplay GIF" width="800" style="max-width:50%; border-radius: 8px; border: 2px solid #FF0000;"> </a>
+<h3>🎥 Gameplay Showcase (Click to Watch)</h3> <a href="https://youtu.be/BSkVJF2I5ag" target="_blank" title="Click to watch full gameplay video"> <img src="https://github.com/user-attachments/assets/ab0bf884-84cc-40c9-b9e2-a126a7b49f83" alt="Dungeon Janitors Gameplay GIF" width="800" style="max-width:50%; border-radius: 8px; border: 2px solid #FF0000;"> </a>
 </br>
 </br>
 
