@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 856e99cd9dc109e409773a53b5b65191, type: 3}
+  m_Name: DirtList
+  m_EditorClassIdentifier: Assembly-CSharp::DirtListSO
+  dirtList:
+  - {fileID: 11400000, guid: 60639297e86786f478a873d48b519101, type: 2}
+  - {fileID: 11400000, guid: 66c95efe2d41af443940ae42441019d0, type: 2}
+  - {fileID: 11400000, guid: 7740788e0d7837547adfc0775cd21aa2, type: 2}
+  - {fileID: 11400000, guid: e529b64b6bfcc4d4ea2d76e8fe13e69c, type: 2}

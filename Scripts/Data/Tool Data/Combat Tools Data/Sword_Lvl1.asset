@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee9ed2f077640c843aa19697525e01f9, type: 3}
+  m_Name: Sword_Lvl1
+  m_EditorClassIdentifier: 
+  toolName: Starter Sword
+  prefab: {fileID: 4804099711051115836, guid: 5d2d5d1dc597ecb4cb03a5947d9d27e3, type: 3}
+  generalType: 2
+  specificCleaningType: 0
+  cooldown: 0.5
+  maxDistance: 2
+  toolRadius: 0.8
+  cleanSpeed: 0.5
+  damage: 15
+  knockbackPower: 10
+  screenShakeIntensity: 0.2
