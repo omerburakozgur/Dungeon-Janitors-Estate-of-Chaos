@@ -11,13 +11,17 @@
 <a href="https://www.artstation.com/artwork/mAe0Ed"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a> 
 </div>
 
-<h3>🎥 Gameplay Showcase (Click to Watch)</h3> <a href="https://www.youtube.com/watch?v=waVoI2uIIyg" target="_blank" title="Click to watch full gameplay video"> <img src="https://github.com/user-attachments/assets/ab0bf884-84cc-40c9-b9e2-a126a7b49f83" alt="Dungeon Janitors Gameplay GIF" width="800" style="max-width:50%; border-radius: 8px; border: 2px solid #FF0000;"> </a>
-</br>
-</br>
+<h3>🎥 Single Player Demo Showcase (Click to Watch)</h3> 
+<a href="https://youtu.be/fP_WcB68nRI" target="_blank" title="Click to watch playable demo gameplay"> 
+<img src="YOUR_GIF_LINK_HERE" alt="Dungeon Janitors Gameplay GIF" width="800" style="max-width:50%; border-radius: 8px; border: 2px solid #FF0000;"> 
+</a>
+<br>
+<i>(Click on the image to watch the full playable demo video)</i>
+<br><br>
 
 | **Engine** | **Language** | **Architecture** | **Networking** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/Unity_2022+-000000?style=flat-square&logo=unity&logoColor=white" /> | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> | <img src="https://img.shields.io/badge/Host--Authoritative-red?style=flat-square" /> | <img src="https://img.shields.io/badge/Net--Ready_(Fusion)-005571?style=flat-square&logo=photon&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Unity_6.4_LTS-000000?style=flat-square&logo=unity&logoColor=white" /> | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> | <img src="https://img.shields.io/badge/Host--Authoritative-red?style=flat-square" /> | <img src="https://img.shields.io/badge/Net--Ready_(Fusion)-005571?style=flat-square&logo=photon&logoColor=white" /> |
 
 </div>
 
@@ -26,6 +30,8 @@
 ## 📖 Project Overview
 
 **Dungeon Janitors: Estate of Chaos** is a first-person simulation game about cleaning up dangerous dungeons after "heroes" have raided them. It combines the methodical cleaning mechanics of *Viscera Cleanup Detail* with the layered exploration of *House Flipper*, all set within an active, hostile environment.
+
+**Status Update:** Successfully completed and polished the **Single Player Playable Demo**, establishing core rendering loops, custom shaders, and UI flows.
 
 **Core Pillars:**
 * **Layered Cleaning:** Trash Collection -> Physics Carry -> Deep Cleaning.
