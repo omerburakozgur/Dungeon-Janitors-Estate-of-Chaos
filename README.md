@@ -13,7 +13,7 @@
 
 <h3>🎥 Single Player Demo Showcase (Click to Watch)</h3> 
 <a href="https://youtu.be/fP_WcB68nRI" target="_blank" title="Click to watch playable demo gameplay"> 
-<img src="YOUR_GIF_LINK_HERE" alt="Dungeon Janitors Gameplay GIF" width="800" style="max-width:50%; border-radius: 8px; border: 2px solid #FF0000;"> 
+<img src="https://github.com/user-attachments/assets/08067c9d-9166-4f2a-94a2-0c7106b69ab0" alt="Dungeon Janitors Gameplay GIF" width="100%" style="max-width:800px; border-radius: 8px; border: 2px solid #FF0000;"> 
 </a>
 <br>
 <i>(Click on the image to watch the full playable demo video)</i>
@@ -22,6 +22,30 @@
 | **Engine** | **Language** | **Architecture** | **Networking** |
 | :---: | :---: | :---: | :---: |
 | <img src="https://img.shields.io/badge/Unity_6.4_LTS-000000?style=flat-square&logo=unity&logoColor=white" /> | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> | <img src="https://img.shields.io/badge/Host--Authoritative-red?style=flat-square" /> | <img src="https://img.shields.io/badge/Net--Ready_(Fusion)-005571?style=flat-square&logo=photon&logoColor=white" /> |
+
+<br>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/9ef17ac4-9bdb-4203-8182-a39da3e97e26" width="100%" style="border-radius: 8px;">
+      <br><b>Physics & Carry</b>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/dcbb59a4-06b3-4a78-8b5a-71feafe2d3c2" width="100%" style="border-radius: 8px;">
+      <br><b>Combat & Danger</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/bd37e112-60b3-4dcf-8570-1ead86687f67" width="100%" style="border-radius: 8px;">
+      <br><b>Inventory & Trash Loop</b>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/a90ee104-85e6-4bd3-bee7-723660139f43" width="100%" style="border-radius: 8px;">
+      <br><b>Tavern Hub & UI</b>
+    </td>
+  </tr>
+</table>
 
 </div>
 
