@@ -24,21 +24,21 @@
 | <img src="https://img.shields.io/badge/Unity_6.4_LTS-000000?style=flat-square&logo=unity&logoColor=white" /> | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> | <img src="https://img.shields.io/badge/Host--Authoritative-red?style=flat-square" /> | <img src="https://img.shields.io/badge/Net--Ready_(Fusion)-005571?style=flat-square&logo=photon&logoColor=white" /> |
 
 <br>
-<table width="100%" cellpadding="10">
+<table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/dcbb59a4-06b3-4a78-8b5a-71feafe2d3c2" width="100%" style="border-radius: 8px;">
-      <br><b>Combat & Enemy AI</b>
-    </td>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/bd37e112-60b3-4dcf-8570-1ead86687f67" width="100%" style="border-radius: 8px;">
       <br><b>Various Tools & Cleaning System</b>
     </td>
-  </tr>
-  <tr>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/9ef17ac4-9bdb-4203-8182-a39da3e97e26" width="100%" style="border-radius: 8px;">
       <br><b>Minecart Deploy & Extraction</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/dcbb59a4-06b3-4a78-8b5a-71feafe2d3c2" width="100%" style="border-radius: 8px;">
+      <br><b>Combat & Enemy AI</b>
     </td>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/a90ee104-85e6-4bd3-bee7-723660139f43" width="100%" style="border-radius: 8px;">
