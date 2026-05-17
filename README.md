@@ -7,13 +7,13 @@
 <a href="https://omerburakozgur.itch.io/dungeon-janitors" target="_blank"> <img src="https://img.shields.io/badge/Play_on-Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play on Itch.io"> </a>
 <a href="https://drive.google.com/file/d/1hrh3xSWb_4aqL3dPtyF-nB9uQ_GEpUPu/view?usp=sharing"><img src="https://img.shields.io/badge/GDD_Doc-2B5797?style=for-the-badge&logo=googledocs&logoColor=white" alt="GDD"></a> 
 <a href="https://drive.google.com/file/d/1RuRvtg5jgOwtFN5BX9qTqiVGP7Ns_jZK/view?usp=sharing"><img src="https://img.shields.io/badge/TDD_Doc-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="TDD"></a>
-<a href="https://drive.google.com/file/d/1surMrpuCImPI4zCX7TWsmPGdrFCJLDtk/view?usp=sharing"><img src="https://img.shields.io/badge/ROADMAP-464646?style=for-the-badge&logo=googledocs&logoColor=white" alt="Roadmap"></a> 
+<a href="https://drive.google.com/file/d/1surMrpuCImPI4zCX7TWsmPGdrFCJLDtk/view?usp=sharing"><img src="https://img.shields.io/badge/ROADMAP-464646?style=for-the-badge&logo=googledocs&angleColor=white" alt="Roadmap"></a> 
 <a href="https://www.artstation.com/artwork/mAe0Ed"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" alt="Assets"></a> 
 </div>
 
 <h3>🎥 Single Player Demo Showcase (Click to Watch)</h3> 
 <a href="https://youtu.be/fP_WcB68nRI" target="_blank" title="Click to watch playable demo gameplay"> 
-<img src="https://github.com/user-attachments/assets/08067c9d-9166-4f2a-94a2-0c7106b69ab0" alt="Dungeon Janitors Gameplay GIF" width="100%" style="border-radius: 8px; border: 2px solid #FF0000;"> 
+<img src="https://github.com/user-attachments/assets/08067c9d-9166-4f2a-94a2-0c7106b69ab0" alt="Dungeon Janitors Gameplay GIF" width="100%" style="max-width: 800px; border-radius: 8px; border: 2px solid #FF0000;"> 
 </a>
 <br>
 <i>(Click on the image to watch the full playable demo video)</i>
@@ -24,25 +24,59 @@
 | <img src="https://img.shields.io/badge/Unity_6.4_LTS-000000?style=flat-square&logo=unity&logoColor=white" /> | <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" /> | <img src="https://img.shields.io/badge/Host--Authoritative-red?style=flat-square" /> | <img src="https://img.shields.io/badge/Net--Ready_(Fusion)-005571?style=flat-square&logo=photon&logoColor=white" /> |
 
 <br>
-<table width="100%">
+
+## 🛠️ Core Systems & Mechanics Showcase
+
+<table align="center" width="70%">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/bd37e112-60b3-4dcf-8570-1ead86687f67" width="100%" style="border-radius: 8px;">
-      <br><b>Combat & Enemy AI</b>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/9ef17ac4-9bdb-4203-8182-a39da3e97e26" width="100%" style="border-radius: 8px;">
-      <br><b>Various Tools & Cleaning System</b>
+    <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
+      <img src="https://github.com/user-attachments/assets/bd37e112-60b3-4dcf-8570-1ead86687f67" width="100%" style="max-width: 540px; border-radius: 6px;">
+      <br><br>
+      <strong>🧹 Various Tools & Cleaning System</strong>
+      <br>
+      <small>Authoritative decal alpha masking, fluid absorption tools, and environment cleaning loops.</small>
     </td>
   </tr>
+</table>
+
+<br>
+
+<table align="center" width="70%">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/dcbb59a4-06b3-4a78-8b5a-71feafe2d3c2" width="100%" style="border-radius: 8px;">
-      <br><b>Minecart Deploy & Extraction</b>
+    <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
+      <img src="https://github.com/user-attachments/assets/9ef17ac4-9bdb-4203-8182-a39da3e97e26" width="100%" style="max-width: 540px; border-radius: 6px;">
+      <br><br>
+      <strong>📦 Minecart Deploy & Extraction</strong>
+      <br>
+      <small>Run-based risk management cycle where garbage extraction is validated by server-side inventory singletons.</small>
     </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/a90ee104-85e6-4bd3-bee7-723660139f43" width="100%" style="border-radius: 8px;">
-      <br><b>Tavern Hub & Upgrades</b>
+  </tr>
+</table>
+
+<br>
+
+<table align="center" width="70%">
+  <tr>
+    <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
+      <img src="https://github.com/user-attachments/assets/dcbb59a4-06b3-4a78-8b5a-71feafe2d3c2" width="100%" style="max-width: 540px; border-radius: 6px;">
+      <br><br>
+      <strong>⚔️ Combat & Enemy AI</strong>
+      <br>
+      <small>Centralized Server-side Update loops (`TickAI`) managing active hostile entities and BoxCast damage validation.</small>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center" width="70%">
+  <tr>
+    <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
+      <img src="https://github.com/user-attachments/assets/a90ee104-85e6-4bd3-bee7-723660139f43" width="100%" style="max-width: 540px; border-radius: 6px;">
+      <br><br>
+      <strong>🏰 Tavern Hub & Upgrades</strong>
+      <br>
+      <small>Data-driven contract systems and character progression menus built using decoupled ScriptableObject channels.</small>
     </td>
   </tr>
 </table>
