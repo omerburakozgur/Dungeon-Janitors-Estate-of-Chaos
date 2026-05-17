@@ -27,10 +27,10 @@
 
 ## 🛠️ Core Systems & Mechanics Showcase
 
-<table align="center" width="70%">
+<table align="center" width="40%">
   <tr>
     <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
-      <img src="https://github.com/user-attachments/assets/bd37e112-60b3-4dcf-8570-1ead86687f67" width="100%" style="max-width: 540px; border-radius: 6px;">
+      <img src="https://github.com/user-attachments/assets/bd37e112-60b3-4dcf-8570-1ead86687f67" width="60%" style="max-width: 540px; border-radius: 6px;">
       <br><br>
       <strong>🧹 Various Tools & Cleaning System</strong>
       <br>
@@ -41,10 +41,10 @@
 
 <br>
 
-<table align="center" width="70%">
+<table align="center" width="40%">
   <tr>
     <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
-      <img src="https://github.com/user-attachments/assets/9ef17ac4-9bdb-4203-8182-a39da3e97e26" width="100%" style="max-width: 540px; border-radius: 6px;">
+      <img src="https://github.com/user-attachments/assets/9ef17ac4-9bdb-4203-8182-a39da3e97e26" width="60%" style="max-width: 540px; border-radius: 6px;">
       <br><br>
       <strong>📦 Minecart Deploy & Extraction</strong>
       <br>
@@ -55,10 +55,10 @@
 
 <br>
 
-<table align="center" width="70%">
+<table align="center" width="40%">
   <tr>
     <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
-      <img src="https://github.com/user-attachments/assets/dcbb59a4-06b3-4a78-8b5a-71feafe2d3c2" width="100%" style="max-width: 540px; border-radius: 6px;">
+      <img src="https://github.com/user-attachments/assets/dcbb59a4-06b3-4a78-8b5a-71feafe2d3c2" width="60%" style="max-width: 540px; border-radius: 6px;">
       <br><br>
       <strong>⚔️ Combat & Enemy AI</strong>
       <br>
@@ -69,10 +69,10 @@
 
 <br>
 
-<table align="center" width="70%">
+<table align="center" width="40%">
   <tr>
     <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
-      <img src="https://github.com/user-attachments/assets/a90ee104-85e6-4bd3-bee7-723660139f43" width="100%" style="max-width: 540px; border-radius: 6px;">
+      <img src="https://github.com/user-attachments/assets/a90ee104-85e6-4bd3-bee7-723660139f43" width="60%" style="max-width: 540px; border-radius: 6px;">
       <br><br>
       <strong>🏰 Tavern Hub & Upgrades</strong>
       <br>
