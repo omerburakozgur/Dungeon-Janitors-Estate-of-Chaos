@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82c2bbc909c02824892c33de944127b3, type: 3}
+  m_Name: BroomUpgrade_ShopItemSO
+  m_EditorClassIdentifier: 
+  itemName: Broom Upgrade
+  description: A more sturdier broom, increases general cleaning speed.
+  icon: {fileID: 21300000, guid: 6a3bb61d72e1a5c438e41c5563e65ae9, type: 3}
+  item3DModelPrefab: {fileID: 2886636400587223092, guid: 9809f98d09ceb034697f1e5e2efe18e8, type: 3}
+  baseCost: 100
+  maxLevel: 5
+  itemType: 1
+  toolReward: {fileID: 0}
+  statType: 2
+  statMultiplierPerLevel: 0.1

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d86d2314c0df03e4d8677df2e7234e8d, type: 3}
+  m_Name: Test Level Data 3
+  m_EditorClassIdentifier: 
+  levelDisplayName: Abandoned Alchemy Lab
+  levelDescription: The laboratory was sealed following a massive explosion yesterday.
+    You must urgently prevent the reactive liquids on the floor from mixing. Sweep
+    up the glass shards and secure all combustible materials in isolated containers.
+    Do not enter without your hazard mask.
+  levelThumbnail: {fileID: 21300000, guid: fafbfd099e454c540ab4f9d29f3b6472, type: 3}
+  previewVideo: {fileID: 0}
+  sceneName: MainScene
+  difficultyLevel: High
+  baseGoldReward: 500
+  baseSalvageReward: 150
+  proceduralDirtCount: 60
+  proceduralTrashCount: 30
+  requiredDirtToClean: 20
+  requiredTrashToCollect: 10

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29b5bd34fe0c9d8458136d4e05ef0df6, type: 3}
+  m_Name: AudioData
+  m_EditorClassIdentifier: Assembly-CSharp::AudioDataSO
+  menuMusic: {fileID: 8300000, guid: 54f73ac6cb99a49a7b2f84d79b54ca64, type: 3}
+  mainSceneMusic: {fileID: 8300000, guid: 2dc23088afed41043a6f745880b355b9, type: 3}
+  footSteps: []
+  jump: {fileID: 8300000, guid: 26a140ded3ba27f44a75badc2a88e983, type: 3}
+  hurt: {fileID: 8300000, guid: 3ef312fa3931b2a408f00145fbd33eb8, type: 3}
+  death: {fileID: 8300000, guid: 9297ec2fefe4c1a47884399b5ef20cab, type: 3}
+  woodFootsteps:
+  - {fileID: 8300000, guid: 8e001351cd7065543a068386cde4c960, type: 3}
+  - {fileID: 8300000, guid: c41fb169b2991c247a5466e00faa6639, type: 3}
+  - {fileID: 8300000, guid: 76c66b3ae15685a45a334b0628d1edd1, type: 3}
+  - {fileID: 8300000, guid: cb9aa4db4b3a12147bf2fe3d88fee270, type: 3}
+  - {fileID: 8300000, guid: 2e832dbb2c7c9ba4e97fd3005fe850b7, type: 3}
+  - {fileID: 8300000, guid: 3af6e561e364a274aa306461461c386b, type: 3}
+  - {fileID: 8300000, guid: 30668cf6c5cbfef478b0812fc59eb646, type: 3}
+  - {fileID: 8300000, guid: eea9624d96ae191439615ca598fe01fa, type: 3}
+  stoneFootsteps:
+  - {fileID: 8300000, guid: eb922ec5bd621ad40b087da76e9be0ac, type: 3}
+  - {fileID: 8300000, guid: 3b5e17b9954ea934e944744c6435c697, type: 3}
+  - {fileID: 8300000, guid: d131ad42f3020a249932e42154491309, type: 3}
+  - {fileID: 8300000, guid: b20c30b52dfeeac448235ef68e048966, type: 3}
+  carpetFootsteps:
+  - {fileID: 8300000, guid: 9edc84dbce0192c4b9178abbf9b04605, type: 3}
+  - {fileID: 8300000, guid: 57c0c41e4a6f75a4cb29f14f7e7b7726, type: 3}
+  - {fileID: 8300000, guid: 5b8577201fb92034cb8c459ab90faea0, type: 3}
+  - {fileID: 8300000, guid: 5830c0837a68c994f81f569e4610eea7, type: 3}
+  metalFootsteps:
+  - {fileID: 8300000, guid: 1341e2b988f0e0f4a8a7f0e194d9d551, type: 3}
+  - {fileID: 8300000, guid: 2045330c19005fa49a1047588f3a222e, type: 3}
+  - {fileID: 8300000, guid: c9cb8cc7e7af5af4780de2147fba30c1, type: 3}
+  - {fileID: 8300000, guid: 59fa51faf2e7a0c4496fd5f4a395e3ff, type: 3}
+  - {fileID: 8300000, guid: 806d02e5dad40d44abdcb70460655e4c, type: 3}
+  swordSwing: {fileID: 8300000, guid: 495c3a54ccfa09f41be9efb5001aad6e, type: 3}
+  potionDrink: {fileID: 8300000, guid: fc3da56830b943a449d33de3e7948f4a, type: 3}
+  mopLoop: {fileID: 8300000, guid: 9297ce608e9e64641b2ff6ff575c207f, type: 3}
+  broomLoop: {fileID: 8300000, guid: 9297ce608e9e64641b2ff6ff575c207f, type: 3}
+  vacuumLoop: {fileID: 8300000, guid: 9297ce608e9e64641b2ff6ff575c207f, type: 3}
+  defaultCleaningLoop: {fileID: 8300000, guid: 9297ce608e9e64641b2ff6ff575c207f, type: 3}
+  chestOpen: {fileID: 8300000, guid: 88bdce3037f397349b04a45fd9032bce, type: 3}
+  lootPickup: {fileID: 8300000, guid: 52104bc3637e70540be457e0ba1ba9cd, type: 3}
+  uiClick: {fileID: 8300000, guid: 7a4c4b5d7ffae4646b53e27c39ffc487, type: 3}
+  spikeTrap: {fileID: 8300000, guid: 174ec90df9dc8bc4181520ae5fdd30fa, type: 3}
+  torchLoop: {fileID: 8300000, guid: b6fb03c27a50bde4c90aa0b2d201eab7, type: 3}
+  missionSuccess: {fileID: 8300000, guid: 346bc17f33dfae749ba20c21f3e7b55c, type: 3}
+  trapDoorUnlock: {fileID: 8300000, guid: 41e94abbb9f40ad4f9a3ee9616e633a9, type: 3}
+  trapDoorCreak: {fileID: 8300000, guid: 9c57cece88214d14d8ecd9d0b46b77dc, type: 3}
+  woodDoorOpen: {fileID: 8300000, guid: 41e94abbb9f40ad4f9a3ee9616e633a9, type: 3}
+  woodDoorClose: {fileID: 8300000, guid: 0653919eebadb2548834c0644bfa6fda, type: 3}
+  metalDoorOpen: {fileID: 8300000, guid: c7d79950547809f42983c235f1c6715a, type: 3}
+  metalDoorClose: {fileID: 8300000, guid: d0e9bbc92e8ca42ec81b4a5afc5ab590, type: 3}
+  heavyGateOpen: {fileID: 8300000, guid: 90c00975d809b29428160479d6759f92, type: 3}
+  heavyGateClose: {fileID: 8300000, guid: 90c00975d809b29428160479d6759f92, type: 3}
+  minecartStart: {fileID: 8300000, guid: 25f99338c3ea5eb4c9ac519cb994af5b, type: 3}
+  minecartLoop: {fileID: 8300000, guid: cddc810073062b148964ff51943763ff, type: 3}

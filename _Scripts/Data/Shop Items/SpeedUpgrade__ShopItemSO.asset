@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82c2bbc909c02824892c33de944127b3, type: 3}
+  m_Name: SpeedUpgrade__ShopItemSO
+  m_EditorClassIdentifier: 
+  itemName: Energy Potion
+  description: 'A glowing green potion. Advertisers says it gives energy. No information
+    about side effects. '
+  icon: {fileID: 21300000, guid: dda99ca4aa73f674d894aadc20af25e9, type: 3}
+  item3DModelPrefab: {fileID: 6190256070490013680, guid: d7baca43f39433f45ab35d316c679a57, type: 3}
+  baseCost: 100
+  maxLevel: 5
+  itemType: 1
+  toolReward: {fileID: 0}
+  statType: 1
+  statMultiplierPerLevel: 0.1

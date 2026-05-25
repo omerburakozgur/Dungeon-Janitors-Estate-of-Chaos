@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5025cdc081de6e44924e2f63ec64153, type: 3}
+  m_Name: LootTableSO
+  m_EditorClassIdentifier: 
+  commonLootList:
+  - {fileID: 1405785825066705937, guid: f99b2a66d8e2c4b4595067f49ab4309c, type: 3}
+  - {fileID: 1723018688742797778, guid: 314df96abe419a5449ed70930c1ff7f5, type: 3}
+  - {fileID: 340777757100584788, guid: c08df2dd50908214f82e305f135569cd, type: 3}
+  rareLootList:
+  - {fileID: 0}
+  epicLootList:
+  - {fileID: 0}
+  legendaryLootList:
+  - {fileID: 0}
