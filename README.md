@@ -32,6 +32,20 @@
     <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
       <img src="https://github.com/user-attachments/assets/bd37e112-60b3-4dcf-8570-1ead86687f67" width="60%" style="max-width: 540px; border-radius: 6px;">
       <br><br>
+      <strong>⚔️ Combat & Enemy AI</strong>
+      <br>
+      <small>Centralized Server-side Update loops (`TickAI`) managing active hostile entities and BoxCast damage validation.</small>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center" width="40%">
+  <tr>
+    <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
+      <img src="https://github.com/user-attachments/assets/9ef17ac4-9bdb-4203-8182-a39da3e97e26" width="60%" style="max-width: 540px; border-radius: 6px;">
+      <br><br>
       <strong>🧹 Various Tools & Cleaning System</strong>
       <br>
       <small>Authoritative decal alpha masking, fluid absorption tools, and environment cleaning loops.</small>
@@ -44,25 +58,11 @@
 <table align="center" width="40%">
   <tr>
     <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
-      <img src="https://github.com/user-attachments/assets/9ef17ac4-9bdb-4203-8182-a39da3e97e26" width="60%" style="max-width: 540px; border-radius: 6px;">
+      <img src="https://github.com/user-attachments/assets/dcbb59a4-06b3-4a78-8b5a-71feafe2d3c2" width="60%" style="max-width: 540px; border-radius: 6px;">
       <br><br>
       <strong>📦 Minecart Deploy & Extraction</strong>
       <br>
       <small>Run-based risk management cycle where garbage extraction is validated by server-side inventory singletons.</small>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table align="center" width="40%">
-  <tr>
-    <td align="center" style="padding: 15px; border: 1px solid #30363d; border-radius: 10px;">
-      <img src="https://github.com/user-attachments/assets/dcbb59a4-06b3-4a78-8b5a-71feafe2d3c2" width="60%" style="max-width: 540px; border-radius: 6px;">
-      <br><br>
-      <strong>⚔️ Combat & Enemy AI</strong>
-      <br>
-      <small>Centralized Server-side Update loops (`TickAI`) managing active hostile entities and BoxCast damage validation.</small>
     </td>
   </tr>
 </table>
